@@ -1,0 +1,12 @@
+Student Name: Angela Atibagos
+Number of Subjects: 5
+Quiz Grade: 88.5
+Assignment Grade: 92
+Exam Grade: 90
+Total Grade: 270.5
+Average Grade: 90.17
+Is the student passing? true
+Remaining Subjects: 1
+Subject groups using integer division: 2
+Leftover subjects using remainder: 1
+Student status: true
