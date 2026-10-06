@@ -1,0 +1,7 @@
+name: dart_exercises
+description: A Dart console program demonstrating grade computation, variables, data types, operators, and console output.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
